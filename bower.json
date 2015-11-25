@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "0.0.1",
+  "authors": [
+    "Josh <jfadem82@gmail.com>"
+  ],
+  "description": "calculator lab",
+  "main": "index.html",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
